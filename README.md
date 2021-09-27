@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 
-<a href="https://velog.io/cownow">
+<a href="https://velog.io/@cownow">
     <img 
         src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@cownow"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
