@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🥑Hello! This is Sohyun An
 
 <!--
 **cownow4425/cownow4425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://www.instagram.com/sohyeon__an/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/sohyeon__an/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+
+<a href="https://velog.io/cownow">
+    <img 
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@cownow"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+![cownow4425's GitHub stats](https://github-readme-stats.vercel.app/api?username=cownow4425&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cownow4425&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cownow)](https://solved.ac/cownow)
