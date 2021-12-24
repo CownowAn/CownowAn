@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img alt="Python" src ="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="C++" src ="https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
-<h4><b> ML Framework </b></h4>
+<h4><b> ML/DL Framework </b></h4>
 <p>
 <img alt="PyTorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img alt="PyTorch Lightning" src ="https://img.shields.io/badge/pytorchlightning-792ee5.svg?&style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
