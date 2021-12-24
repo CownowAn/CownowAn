@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 ### 🛠 &nbsp;Skills
-<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white"/>
+![Python]("https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=python&logoColor=white"/>)
 <img src="https://img.shields.io/badge/Tensorflow-#FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/>
 <br/>
