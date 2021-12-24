@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-47a248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
-<h4><b> Ohter Tool </b></h4>
+<h4><b> Ohter Tools </b></h4>
 <p>
 <img alt="GitHub" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Git" src ="https://img.shields.io/badge/git-f05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
