@@ -41,11 +41,21 @@ Here are some ideas to get you started:
 <img alt="MongoDB" src ="https://img.shields.io/badge/mongodb-47a248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle-F80000.svg?&style=for-the-badge&logo=oracle&logoColor=white"/>
 </p> -->
-<h4><b> Ohter Tools </b></h4>
+<h4><b> Collaboration & Tools </b></h4>
 <p>
-<img alt="GitHub" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Git" src ="https://img.shields.io/badge/git-f05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src ="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Sourcetree" src ="https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white"/>
+</p>
+<p>
 <img alt="Notion" src ="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+<img alt="Slack" src ="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+<p>
+<img alt="intellij" src ="https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+<img alt="Vscode" src ="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+<p>
 <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 </br>
