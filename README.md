@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 <img alt="Vscode" src ="https://img.shields.io/badge/vs code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 <p>
+<img alt="Anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 </br>
