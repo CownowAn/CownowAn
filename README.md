@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <p>
 <img alt="PyTorch" src ="https://img.shields.io/badge/pytorch-EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img alt="PyTorch Lightning" src ="https://img.shields.io/badge/pytorchlightning-792ee5.svg?&style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
-<img alt="TensorFlow" src ="https://img.shields.io/badge/tensorflow-ff6f00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img alt="Keras" src ="https://img.shields.io/badge/keras-D00000.svg?&style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
 <!-- <h4><b> DataBase </b></h4>
 <p>
