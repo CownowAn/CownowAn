@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!-- 
 <h3><b> 🥑 Hi, there! This is Sohyun An. </b></h3>
 <p>
 <a href="https://www.instagram.com/sohyeon__an/">
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <p>
 <img alt="Anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-</br>
+</p> -->
+<!-- </br> -->
 
 
 ### 📊 &nbsp;GitHub Stats
