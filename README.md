@@ -1,19 +1,24 @@
 <!--
-**cownow4425/cownow4425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**CownowAn/CownowAn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h3><b> 🥑 Hello! I am Sohyun An. </b></h3>
+<p>
+- 🔭 I’m currently working on KAIST.</br>
+- 🌱 I’m currently studying AutoML, Neural Architecture Search, Meta-learning, etc. </br>
+- 📫 How to reach me: cownow4425@gmail.com </br>
+</p>
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- 
-<h3><b> 🥑 Hi, there! This is Sohyun An. </b></h3>
+<h3><b> 🥑 Hello! I am Sohyun An. </b></h3>
 <p>
 <a href="https://www.instagram.com/sohyeon__an/">
     <img alt="Instagram" src ="https://img.shields.io/badge/instagram-e4405f.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -59,12 +64,12 @@ Here are some ideas to get you started:
 <p> -->
 <!-- <img alt="Anaconda" src ="https://img.shields.io/badge/anaconda-44A833.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-</p> --> --> -->
+</p> -->
 <!-- </br> -->
 
-<!-- 
-### 📊 &nbsp;GitHub Stats
-![Sohyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=cownow4425&show_icons=true&theme=vue-dark) -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cownow4425&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
- -->
+### 📊 &nbsp;GitHub Stats
+![Sohyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=CownowAn&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CownowAn&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
