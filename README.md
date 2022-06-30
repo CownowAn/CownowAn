@@ -3,10 +3,10 @@
 Here are some ideas to get you started:
 -->
 
-<h3><b> 🥑 Hello! I am Sohyun An. </b></h3>
+<h3><b> 👋 Hello! I am Sohyun An. </b></h3>
 <p>
-- 🔭 I’m currently working on KAIST.</br>
-- 🌱 I’m currently studying AutoML, Neural Architecture Search, Meta-learning, etc. </br>
+- 🌱 I’m currently working on KAIST.</br>
+- 🔭 I’m currently studying AutoML, Neural Architecture Search, Meta-learning, etc. </br>
 - 📫 How to reach me: cownow4425@gmail.com </br>
 </p>
 <!--
