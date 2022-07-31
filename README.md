@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <p>
 - 🌱 I’m currently working on KAIST AI.</br>
 - 🔭 I’m currently studying AutoML, Neural Architecture Search, Meta-learning, etc. </br>
-- 📫 How to reach me: cownow4425@gmail.com </br>
+- 📫 How to reach me: sohyunan@kaist.ac.kr </br>
 </p>
 <!--
 - 👯 I’m looking to collaborate on ...
