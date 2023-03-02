@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 <!-- </br> -->
 
 
-### 📊 &nbsp;GitHub Stats
-![Sohyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=CownowAn&show_icons=true&theme=vue-dark)
+<!-- ### 📊 &nbsp;GitHub Stats
+![Sohyun An's GitHub stats](https://github-readme-stats.vercel.app/api?username=CownowAn&show_icons=true&theme=vue-dark) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CownowAn&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CownowAn&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
 
