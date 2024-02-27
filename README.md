@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 <h3><b> 👋 Hello! I am Sohyun An. </b></h3>
 <p>
 - 🌱 I’m currently working on KAIST AI.</br>
-- 🔭 I’m currently studying AutoML, Meta-learning, Generative AI etc. </br>
+- 🔭 I’m currently studying AutoML, Generative AI, Prompt optimization etc. </br>
 - 📫 How to reach me: sohyunan@kaist.ac.kr </br>
 </p>
 <!--
